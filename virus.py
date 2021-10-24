@@ -1,1 +1,1 @@
-print("this virus cry lol LMAO 123")
+print("this virus cry lol LMAO")
