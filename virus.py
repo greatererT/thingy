@@ -1,0 +1,1 @@
+print("this virus cry lol")
